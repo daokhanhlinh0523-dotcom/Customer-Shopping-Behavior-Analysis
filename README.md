@@ -18,6 +18,7 @@ The workflow is:
 2. Load the cleaned data into MySQL
 3. Answer business questions with SQL
 4. Present insights in Power BI
+5. Summarize the analysis in the project report
 
 ## Dataset
 
@@ -69,6 +70,11 @@ The Power BI dashboard includes:
 - revenue by age group
 - sales by age group
 - filters for subscription status, gender, category, and shipping type
+
+## Report
+
+- Summary report: [report.pdf](report.pdf)
+- The report consolidates the main findings, business implications, and recommended actions from the analysis.
 
 ## Tools Used
 
