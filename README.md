@@ -18,7 +18,6 @@ The workflow is:
 2. Load the cleaned data into MySQL
 3. Answer business questions with SQL
 4. Present insights in Power BI
-5. Document the analysis in LaTeX
 
 ## Dataset
 
@@ -76,4 +75,3 @@ The Power BI dashboard includes:
 - Python: `pandas`, `SQLAlchemy`, `PyMySQL`
 - SQL: `MySQL`
 - Visualization: `Power BI`
-- Documentation: `LaTeX`
